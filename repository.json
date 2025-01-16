@@ -1,6 +1,6 @@
 {
   "name": "Hassio Deconz Beta",
-  "url": "https://github.com/CHazz/HassioDeconzBeta/tree/main/deconz",
+  "url": "https://github.com/CHazz/HassioDeconzBeta",
   "maintainer": "Chazz martin@tuxlinux.eu",
   "source": "github",
   "addons": []
