@@ -1,9 +1,9 @@
 ---
-version: 7.0.0
-slug: deconz
-name: deCONZ
+version: 7.0.0B
+slug: deconz-beta
+name: deCONZ-Beta
 description: >-
-  Control a Zigbee network with ConBee or RaspBee by Dresden Elektronik.
+  Control a Zigbee network with ConBee or RaspBee by Dresden Elektronik. (Beta)
 url: https://github.com/home-assistant/addons/tree/master/deconz
 apparmor: false
 arch:
